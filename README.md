@@ -64,7 +64,7 @@ Currently, I am developing my skills in **Data Science** and expanding into **Fu
 
 ---
 
-#"Technology is not just about code — it's about creating solutions that are useful, understandable, and meaningful for people."_
+#"Technology is not just about code.It's about creating solutions that are useful, understandable, and meaningful for people."
 ---
 
 ⭐ If you like my work, consider starring a repository  
