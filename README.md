@@ -13,14 +13,13 @@ Currently, I am developing my skills in **Data Science** and expanding into **Fu
 
 <p align="left">
   <a href="https://github.com/igorznog">
-    <img src="https://img.shields.io/badge/GitHub-IGORZNOG-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-igorznog-181717?style=for-the-badge&logo=github" />
   </a>
   
   <a href="https://www.linkedin.com/in/igor-nogueira-3550a0349">
-  <img src="https://img.shields.io/badge/LinkedIn-IGOR_NOGUEIRA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-Igor%20Nogueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
+  </a>
 </p>
-
 ---
 
 ## 🧠 What I do
