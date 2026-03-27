@@ -1,4 +1,4 @@
-# Olá pessoal 👋
+# Hi there 👋
 
 🚀 **Data & Tech Student | Python | Data Analysis | UX/UI | Seeking Internship**  
 🇧🇷 Brazil
@@ -16,7 +16,7 @@ Currently, I am developing my skills in **Data Science** and expanding into **Fu
     <img src="https://img.shields.io/badge/GitHub-IGORZNOG-181717?style=for-the-badge&logo=github" />
   </a>
   
-  <a href="https://www.linkedin.com/in/igor-nogueira">
+  <a href="https://www.linkedin.com/in/igor-nogueira-3550a0349">
   <img src="https://img.shields.io/badge/LinkedIn-IGOR_NOGUEIRA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
