@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, my name is Igor 
 
 🚀 **Data & Tech Student | Python | Data Analysis | UX/UI | Seeking Internship**  
 🇧🇷 Brazil
